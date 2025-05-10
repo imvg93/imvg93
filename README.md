@@ -8,7 +8,10 @@
 ## 🧠 About Me
 
 I'm a web developer focused on building clean, modern, and user-friendly digital experiences using the **MERN stack**.  
-Currently working at **DataValley**, I'm part of a driven team turning bold ideas into powerful, real-world software.
+Currently working at **DataValley** , I'm part of a driven team turning bold ideas into powerful, real-world software.
+
+🌐 [DataValley Website](https://prod.datavalley.ai/)
+
 
 I’m always excited about solving real problems with code, learning new tech, and building things that make an impact.
 
@@ -73,9 +76,8 @@ I’m always excited about solving real problems with code, learning new tech, a
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/girish-veeranki-581979244/)
-- 🌐 [DataValley Website](https://www.datavalley.com) *(optional if available)*
-- 📧 *Coming soon: personal blog or portfolio!*
-
+- ✉️ Email: girishveeranki3@gmail.com
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+917032255415)
 ---
 
 ## 🎯 Current Focus
