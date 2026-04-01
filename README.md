@@ -8,9 +8,9 @@
 ## 🧠 About Me
 
 I'm a web developer focused on building clean, modern, and user-friendly digital experiences using the **MERN stack**.  
-Currently working at **DataValley** , I'm part of a driven team turning bold ideas into powerful, real-world software.
+Full-stack Software Developer with 1+ years of experience at **Datavalley** , I'm part of a driven team turning bold ideas into powerful, real-world software.
 
-🌐 [DataValley Website](https://prod.datavalley.ai/)
+🌐 [Datavalley Website](https://prod.datavalley.ai/)
 
 
 I’m always excited about solving real problems with code, learning new tech, and building things that make an impact.
